@@ -11,7 +11,7 @@ import SwiftUI
 struct SimpleBudgetApp: App {
     var body: some Scene {
         WindowGroup {
-            ExpenseView()
+            MasterNavView()
         }
     }
 }
